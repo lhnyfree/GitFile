@@ -1,2 +1,0 @@
-# GitFile
-java syn
